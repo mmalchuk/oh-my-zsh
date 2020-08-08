@@ -1,0 +1,1 @@
+/Users/mmalchuk/Dropbox/Repos/github.com/dracula/zsh/dracula.zsh-theme
